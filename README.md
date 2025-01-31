@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhushri1216
 - 👀 I’m interested in coding
-- 🌱 I’m currently doing MCA
+- 🌱 Master of Computer Application
 - 📫 How to reach me contact me by my email that is madhushrikarekar16@gmail.com
 
 <!---
